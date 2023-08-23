@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: 'OneDrive',
+  title: "OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -29,11 +29,11 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
-  googleFontSans: 'DM Serif Display',
+  googleFontSans: 'Cinzel',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
-  googleFontMono: 'Xanh Mono',
+  googleFontMono: 'Cinzel',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Xanh+Mono:wght@300;400;500&display=swap'],
+  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel:wght@300;400;400&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io

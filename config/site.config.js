@@ -29,11 +29,11 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
-  googleFontSans: 'Cinzel',
+  googleFontSans: 'Alegreya Sans SC',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
-  googleFontMono: 'Cinzel',
+  googleFontMono: 'Cutive Mono',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel:wght@300;400;400&display=swap'],
+  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Alegreya+Sans+SCl&family=Cutive+Mono:wght@300;300;300&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
